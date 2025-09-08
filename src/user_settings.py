@@ -6,7 +6,7 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt",
     "https://raw.githubusercontent.com/liketolivefree/kobabi/main/sub.txt",
     "https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt",
-    "https://t.me/s/prrofile_purple",
+    "https://raw.githubusercontent.com/iPsycho1/Subscription/refs/heads/main/Multi_Config",
     # Add more URLs here if you want to include additional sources.
 ]
 
