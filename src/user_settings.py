@@ -3,16 +3,10 @@
 # List of source URLs to fetch proxy configurations from.
 # Add or remove URLs as needed. All URLs in this list are automatically enabled.
 SOURCE_URLS = [
-    "https://t.me/s/v2rayfree",
-    "https://t.me/s/v2ray_free_conf",
-    "https://t.me/s/PrivateVPNs",
-    "https://t.me/s/prrofile_purple",
-    "https://t.me/s/DirectVPN",
-    "https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt",
-    "https://raw.githubusercontent.com/imegabiz/ss-config-updater/refs/heads/main/configs.txt",
+    "https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt",
+    "https://raw.githubusercontent.com/liketolivefree/kobabi/main/sub.txt",
     "https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt",
-    "https://raw.githubusercontent.com/darkvpnapp/CloudflarePlus/refs/heads/main/proxy",
-    "https://v2.alicivil.workers.dev",
+    "https://t.me/s/prrofile_purple",
     # Add more URLs here if you want to include additional sources.
 ]
 
