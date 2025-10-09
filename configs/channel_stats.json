@@ -1,25 +1,25 @@
 {
-  "timestamp": "2025-10-09T01:28:08.212945+00:00",
+  "timestamp": "2025-10-09T12:44:38.885073+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt",
       "enabled": true,
       "metrics": {
         "total_configs": 22650,
-        "valid_configs": 37,
-        "unique_configs": 37,
-        "avg_response_time": 0.16,
+        "valid_configs": 41,
+        "unique_configs": 41,
+        "avg_response_time": 0.08,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.8,
-        "last_success": "2025-10-09T01:23:55.653325+00:00",
+        "overall_score": 74.92,
+        "last_success": "2025-10-09T12:40:21.138891+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 3,
-          "vmess://": 32,
+          "vmess://": 37,
           "ss://": 0,
-          "trojan://": 2,
+          "trojan://": 1,
           "tuic://": 0
         }
       }
@@ -31,11 +31,11 @@
         "total_configs": 60516,
         "valid_configs": 242,
         "unique_configs": 242,
-        "avg_response_time": 0.12,
+        "avg_response_time": 0.08,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.92,
-        "last_success": "2025-10-09T01:24:06.170922+00:00",
+        "overall_score": 74.98,
+        "last_success": "2025-10-09T12:40:32.264245+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 22,
@@ -54,11 +54,11 @@
         "total_configs": 351649,
         "valid_configs": 451,
         "unique_configs": 451,
-        "avg_response_time": 0.11,
+        "avg_response_time": 0.07,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.87,
-        "last_success": "2025-10-09T01:25:14.807853+00:00",
+        "overall_score": 74.92,
+        "last_success": "2025-10-09T12:41:45.348430+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 6,
@@ -77,11 +77,11 @@
         "total_configs": 900,
         "valid_configs": 16,
         "unique_configs": 16,
-        "avg_response_time": 0.17,
+        "avg_response_time": 0.09,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.19,
-        "last_success": "2025-10-09T01:25:17.002865+00:00",
+        "overall_score": 75.31,
+        "last_success": "2025-10-09T12:41:47.461554+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
