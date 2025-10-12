@@ -7,7 +7,7 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/liketolivefree/kobabi/main/sub.txt",
     "https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt",
     "https://raw.githubusercontent.com/iPsycho1/Subscription/refs/heads/main/Multi_Config",
-    "https://unlckmy.net/sub/u446118s3787195p70/f462645cbe151eaf0270ecf0c1085dc7",
+    "https://raw.githubusercontent.com/imalrzai/WolfVPNExclaveVirtul/refs/heads/main/WolfVPN",
     # Add more URLs here if you want to include additional sources.
 ]
 
