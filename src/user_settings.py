@@ -8,6 +8,7 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt",
     "https://raw.githubusercontent.com/iPsycho1/Subscription/refs/heads/main/Multi_Config",
     "https://raw.githubusercontent.com/imalrzai/WolfVPNExclaveVirtul/refs/heads/main/WolfVPN",
+    "https://raw.githubusercontent.com/imalrzai/NebuVPNExclaveVirtual/refs/heads/main/NebuVPN",
     # Add more URLs here if you want to include additional sources.
 ]
 
