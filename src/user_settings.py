@@ -10,6 +10,7 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/imalrzai/WolfVPNExclaveVirtul/refs/heads/main/WolfVPN",
     "https://raw.githubusercontent.com/imalrzai/NebuVPNExclaveVirtual/refs/heads/main/NebuVPN",
     "https://raw.githubusercontent.com/imalrzai/BebraExclaveVirtual/refs/heads/main/BebraVPN",
+    "https://raw.githubusercontent.com/iPsycho1/Subscription/refs/heads/main/Waicorevpn.txt",
     # Add more URLs here if you want to include additional sources.
 ]
 
