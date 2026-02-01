@@ -14,13 +14,13 @@ This project automatically fetches and updates various proxy configurations from
 
 You can directly access the latest configurations through this URL:
 ```
-https://raw.githubusercontent.com/iPsycho1/Proxy-update/refs/heads/main/configs/proxy_configs.txt
+https://raw.githubusercontent.com/iPsycho1/Multi_Configs/refs/heads/main/configs/proxy_configs.txt
 ```
 This project features advanced capabilities for proxy configuration management. The retrieved configurations are automatically converted to Sing-box format and stored in a separate JSON file. For each server, its geographical location is identified using the get location method, and the corresponding flag emoji and country name are automatically added to its tag. These features make proxy management and usage significantly more user-friendly and efficient.
 
 Sing-box subscription link:
 ```
-https://raw.githubusercontent.com/iPsycho1/Proxy-update/refs/heads/main/configs/singbox_configs.json
+https://raw.githubusercontent.com/iPsycho1/Multi_Configs/refs/heads/main/configs/singbox_configs.json
 ```
 
 ## Channel and URL Performance
