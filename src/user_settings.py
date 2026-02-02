@@ -6,11 +6,11 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt",
     "https://raw.githubusercontent.com/liketolivefree/kobabi/main/sub.txt",
     "https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt",
-    "https://raw.githubusercontent.com/iPsycho1/Subscription/refs/heads/main/Multi_Config",
+    "https://raw.githubusercontent.com/iPsycho1/Subscription/refs/heads/main/Waicorevpn.txt",
     "https://raw.githubusercontent.com/imalrzai/WolfVPNExclaveVirtul/refs/heads/main/WolfVPN",
     "https://raw.githubusercontent.com/imalrzai/NebuVPNExclaveVirtual/refs/heads/main/NebuVPN",
-    "https://raw.githubusercontent.com/imalrzai/BebraExclaveVirtual/refs/heads/main/BebraVPN",
     "https://raw.githubusercontent.com/zieng2/wl/main/vless_lite.txt#vless_lite",
+    "https://raw.githubusercontent.com/iPsycho1/Subscription/refs/heads/main/CF%20New",
     # Add more URLs here if you want to include additional sources.
 ]
 
