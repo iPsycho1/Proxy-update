@@ -11,6 +11,7 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/imalrzai/NebuVPNExclaveVirtual/refs/heads/main/NebuVPN",
     "https://raw.githubusercontent.com/zieng2/wl/main/vless_lite.txt#vless_lite",
     "https://raw.githubusercontent.com/iPsycho1/Subscription/refs/heads/main/CF%20New",
+    "https://unlckmy.net/sub/u1153432s4043099p70/b0128f702507821423d47ec5ddce5e9d",
     # Add more URLs here if you want to include additional sources.
 ]
 
