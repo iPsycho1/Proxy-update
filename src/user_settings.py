@@ -12,6 +12,10 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/iPsycho1/Subscription/refs/heads/main/CF%20New",
     "https://unlckmy.net/sub/u1153432s4043099p70/b0128f702507821423d47ec5ddce5e9d",
     "https://sub.shadowproxy66.workers.dev/sub/214abfe9-791e-44ba-bd8e-0afe298119f6#ShadowProxy66(2)",
+    "https://t.me/s/DirectVPN",
+    "https://t.me/s/persianvpnhub",
+    "https://raw.githubusercontent.com/Ashkan-m/v2ray/main/Sub.txt",
+    "https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt",
     # Add more URLs here if you want to include additional sources.
 ]
 
