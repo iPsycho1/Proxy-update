@@ -16,6 +16,7 @@ SOURCE_URLS = [
     "https://t.me/s/persianvpnhub",
     "https://raw.githubusercontent.com/Ashkan-m/v2ray/main/Sub.txt",
     "https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt",
+    "https://raw.githubusercontent.com/iPsycho1/Subscription/refs/heads/main/BPB",
     # Add more URLs here if you want to include additional sources.
 ]
 
